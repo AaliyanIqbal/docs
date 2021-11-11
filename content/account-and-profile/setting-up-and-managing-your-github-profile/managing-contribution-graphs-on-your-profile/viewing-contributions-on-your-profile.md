@@ -101,4 +101,4 @@ If you use {% ifversion fpt or ghec %}{% data variables.product.prodname_ghe_ser
 
 ## Further reading
 
-- "[Viewing contributions on your profile page](/articles/viewing-contributions-on-your-profile-page)"
+- "[Viewing contributions on your profile page](![Purple Orange Pink Modern Gradient Finance Platform Logo](https://user-images.githubusercontent.com/94125794/141323023-0f47ddd9-ecc3-457a-81c4-8f600f7e353e.png))"
